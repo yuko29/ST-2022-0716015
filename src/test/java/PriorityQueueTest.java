@@ -41,7 +41,7 @@ public class PriorityQueueTest {
         // TODO: get PriorityQueue result
         for (index = 0; index < correct_array.length; index++) {
             s = test.poll();
-            result[index] = s;
+            result[index] = s + 1;
         }
 
         assertArrayEquals(correct_array, result);
