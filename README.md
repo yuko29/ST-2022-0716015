@@ -4,8 +4,8 @@
 
 - Pass
 
-![image](https://user-images.githubusercontent.com/20753810/158057159-dd01366c-435b-4525-8de5-d94f879e957a.png)
-![image](https://user-images.githubusercontent.com/20753810/158057179-7dcb24d0-48ee-44ef-b089-d54bf161f262.png)
+![image](https://user-images.githubusercontent.com/20753810/158058115-69558872-5f70-402c-b9d1-2cbd69e7f22b.png)
+![image](https://user-images.githubusercontent.com/20753810/158058131-038cd83a-fa7d-4e0d-84ac-0585070efade.png)
 
 - Failed
 
